@@ -1,10 +1,10 @@
-### About me 👋
+### 💼 Available for Hire 🙏
 
-# Shailendra pratap singh
+# Shailendra
 
 ## Software Engineer | Ruby on Rails Developer
 
-👋 Hello! I'm Shailendra pratap singh, a seasoned Software Engineer with over 7 years of experience specializing in Ruby on Rails web application development.
+🚀 Freelance Software Engineer with 7+ years of experience in Ruby on Rails. Let's build something amazing together🤝! 💻✨
 
 ### 🔧 Skills
 
