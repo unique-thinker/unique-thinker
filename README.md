@@ -1,16 +1,18 @@
-### Hi there 👋
+### About me 👋
 
-<!--
-**unique-thinker/unique-thinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shailendra pratap singh
 
-Here are some ideas to get you started:
+## Software Engineer | Ruby on Rails Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello! I'm Shailendra pratap singh, a seasoned Software Engineer with over 7 years of experience specializing in Ruby on Rails web application development.
+
+### 🔧 Skills
+
+- **Languages:** Ruby, JavaScript
+- **Web Development:** Ruby on Rails, HTML5, JavaScript
+- **Database:** PostgreSQL, MySQL
+- **Version Control:** Git
+- **Testing:** RSpec, Capybara
+- **Deployment:** Heroku, AWS
+
+Made with ❤️ by Shailendra pratap singh
